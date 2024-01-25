@@ -1,4 +1,4 @@
-# lesson2
+# Ninja Reaction Timer
 
 ## Project setup
 ```
